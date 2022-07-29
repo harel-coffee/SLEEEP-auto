@@ -4,6 +4,7 @@
 /data/vols_*/
 /data/radiomics_features/
 /trash/
+!radiomics_dataframes/
 
 # Documents
 /documents/
@@ -18,7 +19,7 @@ freesurfer_working_directory/
 *.rar
 *.msg
 *.png
-*.pkl
+
 *.nii
 *.nii.gz
 
