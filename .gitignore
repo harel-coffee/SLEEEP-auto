@@ -10,7 +10,6 @@
 /documents
 =======
 # We exclude all actual data files
-data/
 trash/
 .zip
 .rar
