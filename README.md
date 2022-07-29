@@ -16,7 +16,7 @@ Preprint available at https://europepmc.org/article/ppr/ppr468812
 
 **Conclusion**: Despite high agreementamong segmentation methods, subtle differences significantly affected radiomicfeatures and their predictive power. Consequently, the effect of differences insegmentation methods should be taken into account when designing and evaluatingradiomics-based research methods. 
 
-![brains](D:\repositories\SLEEEP\images\brains.jpg)
+![brains](images\brains.jpg)
 
 ## This repository
 
@@ -35,7 +35,7 @@ Best,
 
 Maarten Poirot
 
-![img](file:///D:/repositories/SLEEEP/images/shallowNN.jpg)
+![img](images/shallowNN.jpg)
 
 
 
