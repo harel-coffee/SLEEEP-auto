@@ -2,6 +2,7 @@
 /data/radiomics_features/
 /data/segs_*/
 /data/vols_*/
+/data/radiomics_features/
 /trash/
 
 # Documents
@@ -10,7 +11,7 @@
 # Omit other large directories
 /scripts/RENT/
 /scripts/4dice_scoring/segmentation_sanity_check/
-/freesurfer_working_directory
+freesurfer_working_directory/
 
 # Filetypes
 *.zip
@@ -18,6 +19,8 @@
 *.msg
 *.png
 *.pkl
+*.nii
+*.nii.gz
 
 # IDE config files
 .DS_Store
