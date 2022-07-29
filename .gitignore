@@ -1,10 +1,6 @@
 # Directories containing large data files
-/data/radiomics_features/
-/data/segs_*/
-/data/vols_*/
-/data/radiomics_features/
+/data/radiomics_features/*/*.pkl
 /trash/
-!radiomics_dataframes/
 
 # Documents
 /documents/
@@ -16,11 +12,8 @@ freesurfer_working_directory/
 
 # Filetypes
 *.zip
-*.rar
 *.msg
 *.png
-
-*.nii
 *.nii.gz
 
 # IDE config files
