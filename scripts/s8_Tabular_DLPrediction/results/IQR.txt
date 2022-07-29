@@ -1,0 +1,47 @@
+from ultils import pickle_in
+from glob import glob
+import os
+from scipy.stats import iqr
+
+>>> for metric in ['acc', 'loss']:
+...     for f in glob(r'/data/projects/depredict/repositories/SLEEEP/scripts/s8_Tabular_DLPrediction/results/*.pkl'):
+...         fold_results = [x[metric] for x in pickle_in(f)]
+...         print(f'{metric.ljust(5)}
+...                 {os.path.basename(f).ljust(50)} 
+...                 {np.median(fold_results)}
+...                ({np.median(fold_results) - iqr(fold_results)}-{np.median(fold_results) + iqr(fold_results)})')
+... 
+
+acc   nn-predict-results-for-fastsurfer_DTI_smol.pkl     0.8428571579002199 (0.7428571340583620-0.9228571817420778)
+acc   nn-predict-results-for-freesurfer_DTI_smol.pkl     0.7214285773890359 (0.6214285535471780-0.8214286012308938)
+acc   nn-predict-results-for-samseg_DTI_smol.pkl         0.7714285829237529 (0.5964285412005016-0.8964286246470043)
+acc   nn-predict-results-for-vuno_DTI_smol.pkl           0.8166666783037639 (0.6166666306200481-0.9066667259874798)
+loss  nn-predict-results-for-fastsurfer_DTI_smol.pkl     0.4578371769083397 (0.2521129226578133-0.6635614311588662)
+loss  nn-predict-results-for-freesurfer_DTI_smol.pkl     0.5956889369658062 (0.4696475097111293-0.7217303642204830)
+loss  nn-predict-results-for-samseg_DTI_smol.pkl         0.5338465386912936 (0.3685803899452800-0.6991126874373073)
+loss  nn-predict-results-for-vuno_DTI_smol.pkl           0.4986729923458326 (0.2989314425559271-0.6984145421357382)
+
+files = glob(get_root('scripts', 's8_Tabular_DLPrediction', 'results', '*.pkl'))
+for selec in ['smol.pkl', '_.pkl']:
+    for tool in ['samseg', 'vuno', 'freesurfer', 'fastsurfer']:
+        for f in files:
+            if '20220615' in f and tool in f and selec in f:
+                fold_acc = [x['acc'] for x in pickle_in(f)]
+                fold_loss = [x['loss'] for x in pickle_in(f)]
+                print(f'{os.path.basename(f).ljust(60)}'
+                      f'{np.median(fold_loss):.5f} '
+                      f'({np.median(fold_loss) - iqr(fold_loss):.5f}-'
+                      f'{np.median(fold_loss) + iqr(fold_loss):.5f}) | '
+                      f'{np.median(fold_acc):.3%} '
+                      f'({np.median(fold_acc) - iqr(fold_acc):.3%}-'
+                      f'{np.median(fold_acc) + iqr(fold_acc):.3%})')
+
+20220615-nn-predict-results-for-samseg_DTI_smol.pkl         0.53182 (0.40158-0.66207) | 76.667% (66.667%-86.667%)
+20220615-nn-predict-results-for-vuno_DTI_smol.pkl           0.48137 (0.31123-0.65152) | 82.381% (64.881%-99.881%)
+20220615-nn-predict-results-for-freesurfer_DTI_smol.pkl     0.59507 (0.47559-0.71455) | 70.714% (50.714%-90.714%)
+20220615-nn-predict-results-for-fastsurfer_DTI_smol.pkl     0.45247 (0.23444-0.67050) | 82.143% (64.643%-99.643%)
+20220615-nn-predict-results-for-samseg_DTI_.pkl             0.68964 (0.60360-0.74569) | 56.667% (46.667%-66.667%)
+20220615-nn-predict-results-for-vuno_DTI_.pkl               0.72374 (0.68818-0.75931) | 52.619% (42.619%-62.619%)
+20220615-nn-predict-results-for-freesurfer_DTI_.pkl         1.04472 (0.98791-1.09154) | 54.762% (44.762%-64.762%)
+20220615-nn-predict-results-for-fastsurfer_DTI_.pkl         0.69182 (0.64430-0.74935) | 56.429% (38.929%-73.929%)
+

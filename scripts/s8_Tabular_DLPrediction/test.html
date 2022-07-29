@@ -1,0 +1,44 @@
+add_action( 'woocommerce_after_order_notes', 'custom_checkout_fields' );
+function custom_checkout_fields( $checkout ) {
+    echo '<div id="custom_checkout_fields">';
+    // The Check box
+    woocommerce_form_field( 'my_checkbox', array(
+        'type'          => 'checkbox',
+        'class'         => array('my-field-class form-row-wide'),
+        'label'         => __('Fill in this field'),
+        'placeholder'   => __('Enter something'),
+        ), $checkout->get_value( 'my_checkbox' ));
+    echo '</div>';
+
+	        // The jQuery Script
+        ?>
+        <script>
+            jQuery(function($){
+                // Initialising variables
+                var textField = 'p#postcode',
+                    checkboxField = 'input[name^="my_checkbox"]',
+                    required = '<abbr class="required" title="<?php echo $required; ?>">*</abbr>'; // Required html
+
+                // When Checkbox is checked / unchecked (Live event)
+                $( checkboxField ).click( function() {
+                    if( $(this).prop('checked') == true )
+                        $(textField).show(function(){
+                            $(this).addClass("validate-required");
+                            $(this).removeClass("woocommerce-validated");
+                            $(this).removeClass("woocommerce-invalid woocommerce-invalid-required-field");
+                            if( $(textField+' > label > abbr').html() == undefined )
+                                $(textField+' label').append(required);
+                        });
+                    else
+                        $(textField).hide(function(){
+                            $(this).removeClass("validate-required");
+                            $(this).removeClass("woocommerce-validated");
+                            $(this).removeClass("woocommerce-invalid woocommerce-invalid-required-field");
+                            if( $(textField+' > label > abbr').html() != undefined )
+                                $(textField+' label > .required').remove();
+                        });
+                });
+            });
+        </script>
+        <?php
+}

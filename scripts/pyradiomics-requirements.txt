@@ -1,0 +1,70 @@
+astroid==2.5.3
+blosc==1.10.1
+brotlipy==0.7.0
+certifi==2020.12.5
+cffi @ file:///tmp/build/80754af9/cffi_1613246939562/work
+chardet @ file:///tmp/build/80754af9/chardet_1607706768982/work
+cryptography @ file:///tmp/build/80754af9/cryptography_1616769182610/work
+cycler==0.10.0
+decorator==4.4.2
+docopt==0.6.2
+h5py==2.9.0
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+imageio==2.9.0
+isort==5.8.0
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+kiwisolver==1.2.0
+lazy-object-proxy==1.6.0
+lightgbm @ file:///tmp/build/80754af9/lightgbm_1607535971229/work
+littleutils==0.2.2
+matplotlib==3.1.1
+mccabe==0.6.1
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+mpmath==1.2.1
+networkx==2.5
+nibabel==2.5.1
+numpy==1.17.4
+olefile==0.46
+outdated==0.2.0
+packaging==20.4
+pandas==1.1.4
+pandas-flavor==0.2.0
+patsy==0.5.1
+pickle5 @ file:///home/conda/feedstock_root/build_artifacts/pickle5_1592859247555/work
+Pillow==7.1.1
+pingouin @ file:///home/conda/feedstock_root/build_artifacts/pingouin_1613461436171/work
+progressbar==2.5
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pykwalify==1.7.0
+pylint==2.7.4
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing==2.4.7
+pyradiomics==2.2.0
+PySocks @ file:///tmp/build/80754af9/pysocks_1594394576006/work
+python-dateutil==2.8.1
+pytz==2020.4
+PyWavelets==1.1.1
+PyYAML==5.4.1
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+scikit-image==0.15.0
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1614445567925/work
+scipy==1.3.1
+seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+SimpleITK==2.0.2
+six==1.15.0
+statsmodels @ file:///tmp/build/80754af9/statsmodels_1614023743307/work
+tabulate==0.8.9
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+toml==0.10.2
+torch==1.7.1
+torchvision==0.8.2
+tornado @ file:///tmp/build/80754af9/tornado_1606942283357/work
+tqdm @ file:///tmp/build/80754af9/tqdm_1615925068909/work
+trimesh @ file:///home/conda/feedstock_root/build_artifacts/trimesh_1614383906608/work
+typed-ast==1.4.3
+typing-extensions==3.7.4.3
+urllib3 @ file:///tmp/build/80754af9/urllib3_1615837158687/work
+wrapt==1.12.1
+xarray @ file:///tmp/build/80754af9/xarray_1614625053385/work

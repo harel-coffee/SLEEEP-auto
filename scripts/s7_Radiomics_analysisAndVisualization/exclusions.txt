@@ -1,0 +1,4 @@
+008 excluded for missing at least one timepoint, is_deprived: True
+017 excluded for missing at least one timepoint, is_deprived: True
+033 excluded for missing at least one timepoint, is_deprived: False
+038 excluded for missing at least one timepoint, is_deprived: True

@@ -1,0 +1,998 @@
+6 source: /data/projects/depredict/sleeep/freesurfer_working_directory/002/20180701_055836/mri/aseg.mgz
+6 target: /data/projects/depredict/sleeep/segs_freesurfer/002/20180701_055836.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/002/20180701_055836/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/002/20180701_055836.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/002/20180701_055836/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -2.79397e-09, 3.72529e-09)
+j_ras = (3.72529e-09, 2.98023e-08, -1)
+k_ras = (1.02445e-08, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/002/20180701_055836.nii.gz...
+copied SUCCESSFULLY 
+
+7 source: /data/projects/depredict/sleeep/freesurfer_working_directory/002/20180701_145816/mri/aseg.mgz
+7 target: /data/projects/depredict/sleeep/segs_freesurfer/002/20180701_145816.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/002/20180701_145816/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/002/20180701_145816.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/002/20180701_145816/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 0)
+j_ras = (7.45058e-09, -1.49012e-08, -1)
+k_ras = (-6.51926e-09, 1, 1.49012e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/002/20180701_145816.nii.gz...
+copied SUCCESSFULLY 
+
+8 source: /data/projects/depredict/sleeep/freesurfer_working_directory/003/20180701_075128/mri/aseg.mgz
+8 target: /data/projects/depredict/sleeep/segs_freesurfer/003/20180701_075128.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/003/20180701_075128/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/003/20180701_075128.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/003/20180701_075128/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -9.31323e-10, 7.45058e-09)
+j_ras = (1.49012e-08, 1.49012e-08, -1)
+k_ras = (-2.79397e-09, 1, -7.45058e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/003/20180701_075128.nii.gz...
+copied SUCCESSFULLY 
+
+9 source: /data/projects/depredict/sleeep/freesurfer_working_directory/003/20180701_201932/mri/aseg.mgz
+9 target: /data/projects/depredict/sleeep/segs_freesurfer/003/20180701_201932.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/003/20180701_201932/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/003/20180701_201932.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/003/20180701_201932/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -3.72529e-09, -1.86265e-09)
+j_ras = (0, -7.45058e-09, -1)
+k_ras = (-1.16415e-10, 1, -1.49012e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/003/20180701_201932.nii.gz...
+copied SUCCESSFULLY 
+
+10 source: /data/projects/depredict/sleeep/freesurfer_working_directory/003/20180702_104022/mri/aseg.mgz
+10 target: /data/projects/depredict/sleeep/segs_freesurfer/003/20180702_104022.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/003/20180702_104022/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/003/20180702_104022.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/003/20180702_104022/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 5.12227e-09, -3.72529e-09)
+j_ras = (0, 0, -1)
+k_ras = (-3.49246e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/003/20180702_104022.nii.gz...
+copied SUCCESSFULLY 
+
+11 source: /data/projects/depredict/sleeep/freesurfer_working_directory/003/20180702_150314/mri/aseg.mgz
+11 target: /data/projects/depredict/sleeep/segs_freesurfer/003/20180702_150314.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/003/20180702_150314/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/003/20180702_150314.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/003/20180702_150314/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -6.98492e-10, -1.86265e-09)
+j_ras = (-1.86265e-09, 3.72529e-09, -1)
+k_ras = (6.98492e-10, 1, -7.45058e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/003/20180702_150314.nii.gz...
+copied SUCCESSFULLY 
+
+12 source: /data/projects/depredict/sleeep/freesurfer_working_directory/004/20180701_084506/mri/aseg.mgz
+12 target: /data/projects/depredict/sleeep/segs_freesurfer/004/20180701_084506.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/004/20180701_084506/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/004/20180701_084506.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/004/20180701_084506/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.45519e-11, 0)
+j_ras = (0, 0, -1)
+k_ras = (-1.45519e-11, 1, 2.91038e-11)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/004/20180701_084506.nii.gz...
+copied SUCCESSFULLY 
+
+13 source: /data/projects/depredict/sleeep/freesurfer_working_directory/004/20180701_211452/mri/aseg.mgz
+13 target: /data/projects/depredict/sleeep/segs_freesurfer/004/20180701_211452.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/004/20180701_211452/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/004/20180701_211452.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/004/20180701_211452/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -1.16415e-10, 1.86265e-09)
+j_ras = (1.86265e-09, -7.45058e-09, -1)
+k_ras = (1.74623e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/004/20180701_211452.nii.gz...
+copied SUCCESSFULLY 
+
+14 source: /data/projects/depredict/sleeep/freesurfer_working_directory/004/20180702_070822/mri/aseg.mgz
+14 target: /data/projects/depredict/sleeep/segs_freesurfer/004/20180702_070822.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/004/20180702_070822/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/004/20180702_070822.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/004/20180702_070822/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 6.31553e-09, 0)
+j_ras = (3.72529e-09, -3.49246e-10, -1)
+k_ras = (-1.37952e-08, 1, -1.16415e-10)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/004/20180702_070822.nii.gz...
+copied SUCCESSFULLY 
+
+15 source: /data/projects/depredict/sleeep/freesurfer_working_directory/004/20180702_160102/mri/aseg.mgz
+15 target: /data/projects/depredict/sleeep/segs_freesurfer/004/20180702_160102.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/004/20180702_160102/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/004/20180702_160102.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/004/20180702_160102/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -4.65661e-10, 0)
+j_ras = (1.11759e-08, 0, -1)
+k_ras = (9.31323e-10, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/004/20180702_160102.nii.gz...
+copied SUCCESSFULLY 
+
+16 source: /data/projects/depredict/sleeep/freesurfer_working_directory/004/fsaverage/mri/aseg.mgz
+16 target: /data/projects/depredict/sleeep/segs_freesurfer/004/fsaverage.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/004/fsaverage/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/004/fsaverage.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/004/fsaverage/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 0)
+j_ras = (0, 0, -1)
+k_ras = (0, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/004/fsaverage.nii.gz...
+copied SUCCESSFULLY 
+
+17 source: /data/projects/depredict/sleeep/freesurfer_working_directory/005/20180701_101649/mri/aseg.mgz
+17 target: /data/projects/depredict/sleeep/segs_freesurfer/005/20180701_101649.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/005/20180701_101649/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/005/20180701_101649.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/005/20180701_101649/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 9.31323e-10, 0)
+j_ras = (0, 7.45058e-09, -1)
+k_ras = (-1.86265e-09, 1, -7.45058e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/005/20180701_101649.nii.gz...
+copied SUCCESSFULLY 
+
+18 source: /data/projects/depredict/sleeep/freesurfer_working_directory/005/20180701_220455/mri/aseg.mgz
+18 target: /data/projects/depredict/sleeep/segs_freesurfer/005/20180701_220455.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/005/20180701_220455/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/005/20180701_220455.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/005/20180701_220455/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -1.86265e-09, -3.72529e-09)
+j_ras = (1.49012e-08, -2.98023e-08, -1)
+k_ras = (-6.51926e-09, 1, 1.49012e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/005/20180701_220455.nii.gz...
+copied SUCCESSFULLY 
+
+19 source: /data/projects/depredict/sleeep/freesurfer_working_directory/005/20180702_112736/mri/aseg.mgz
+19 target: /data/projects/depredict/sleeep/segs_freesurfer/005/20180702_112736.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/005/20180702_112736/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/005/20180702_112736.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/005/20180702_112736/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 0)
+j_ras = (3.72529e-09, 4.47035e-08, -1)
+k_ras = (0, 1, -1.49012e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/005/20180702_112736.nii.gz...
+copied SUCCESSFULLY 
+
+20 source: /data/projects/depredict/sleeep/freesurfer_working_directory/005/20180702_164821/mri/aseg.mgz
+20 target: /data/projects/depredict/sleeep/segs_freesurfer/005/20180702_164821.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/005/20180702_164821/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/005/20180702_164821.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/005/20180702_164821/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.39698e-09, 1.86265e-09)
+j_ras = (7.45058e-09, 1.49012e-08, -1)
+k_ras = (-1.39698e-09, 1, -1.49012e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/005/20180702_164821.nii.gz...
+copied SUCCESSFULLY 
+
+21 source: /data/projects/depredict/sleeep/freesurfer_working_directory/006/20180702_082531/mri/aseg.mgz
+21 target: /data/projects/depredict/sleeep/segs_freesurfer/006/20180702_082531.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/006/20180702_082531/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/006/20180702_082531.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/006/20180702_082531/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 3.25963e-09, 0)
+j_ras = (-7.45058e-09, 0, -1)
+k_ras = (4.19095e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/006/20180702_082531.nii.gz...
+copied SUCCESSFULLY 
+
+22 source: /data/projects/depredict/sleeep/freesurfer_working_directory/006/20180702_202253/mri/aseg.mgz
+22 target: /data/projects/depredict/sleeep/segs_freesurfer/006/20180702_202253.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/006/20180702_202253/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/006/20180702_202253.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/006/20180702_202253/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 2.56114e-09, -1.86265e-09)
+j_ras = (0, 0, -1)
+k_ras = (-2.56114e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/006/20180702_202253.nii.gz...
+copied SUCCESSFULLY 
+
+23 source: /data/projects/depredict/sleeep/freesurfer_working_directory/006/20180703_071943/mri/aseg.mgz
+23 target: /data/projects/depredict/sleeep/segs_freesurfer/006/20180703_071943.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/006/20180703_071943/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/006/20180703_071943.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/006/20180703_071943/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -1.86265e-09, -1.86265e-09)
+j_ras = (0, 2.98023e-08, -1)
+k_ras = (-2.09548e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/006/20180703_071943.nii.gz...
+copied SUCCESSFULLY 
+
+24 source: /data/projects/depredict/sleeep/freesurfer_working_directory/006/20180703_142658/mri/aseg.mgz
+24 target: /data/projects/depredict/sleeep/segs_freesurfer/006/20180703_142658.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/006/20180703_142658/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/006/20180703_142658.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/006/20180703_142658/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 3.41242e-09, 0)
+j_ras = (0, 1.86265e-09, -1)
+k_ras = (-3.4197e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/006/20180703_142658.nii.gz...
+copied SUCCESSFULLY 
+
+25 source: /data/projects/depredict/sleeep/freesurfer_working_directory/007/20180702_090900/mri/aseg.mgz
+25 target: /data/projects/depredict/sleeep/segs_freesurfer/007/20180702_090900.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/007/20180702_090900/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/007/20180702_090900.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/007/20180702_090900/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 7.567e-10, 0)
+j_ras = (1.86265e-09, 3.72529e-09, -1)
+k_ras = (-3.49246e-10, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/007/20180702_090900.nii.gz...
+copied SUCCESSFULLY 
+
+26 source: /data/projects/depredict/sleeep/freesurfer_working_directory/007/20180702_210849/mri/aseg.mgz
+26 target: /data/projects/depredict/sleeep/segs_freesurfer/007/20180702_210849.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/007/20180702_210849/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/007/20180702_210849.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/007/20180702_210849/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.06593e-09, 0)
+j_ras = (0, -5.58794e-09, -1)
+k_ras = (-1.45519e-10, 1, 1.86265e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/007/20180702_210849.nii.gz...
+copied SUCCESSFULLY 
+
+27 source: /data/projects/depredict/sleeep/freesurfer_working_directory/007/20180703_102119/mri/aseg.mgz
+27 target: /data/projects/depredict/sleeep/segs_freesurfer/007/20180703_102119.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/007/20180703_102119/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/007/20180703_102119.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/007/20180703_102119/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 3.1132e-09, -4.65661e-10)
+j_ras = (-4.65661e-10, 4.65661e-10, -1)
+k_ras = (-2.18006e-09, 1, 4.65661e-10)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/007/20180703_102119.nii.gz...
+copied SUCCESSFULLY 
+
+28 source: /data/projects/depredict/sleeep/freesurfer_working_directory/007/20180703_160953/mri/aseg.mgz
+28 target: /data/projects/depredict/sleeep/segs_freesurfer/007/20180703_160953.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/007/20180703_160953/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/007/20180703_160953.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/007/20180703_160953/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -1.45519e-11, 0)
+j_ras = (-3.72529e-09, 4.65661e-10, -1)
+k_ras = (-2.18279e-10, 1, -4.65661e-10)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/007/20180703_160953.nii.gz...
+copied SUCCESSFULLY 
+
+29 source: /data/projects/depredict/sleeep/freesurfer_working_directory/008/20180702_095533/mri/aseg.mgz
+29 target: /data/projects/depredict/sleeep/segs_freesurfer/008/20180702_095533.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/008/20180702_095533/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/008/20180702_095533.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/008/20180702_095533/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -4.65661e-10, -7.45058e-09)
+j_ras = (7.45058e-09, -1.86265e-09, -1)
+k_ras = (4.07454e-09, 1, 3.72529e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/008/20180702_095533.nii.gz...
+copied SUCCESSFULLY 
+
+30 source: /data/projects/depredict/sleeep/freesurfer_working_directory/008/20180702_215220/mri/aseg.mgz
+30 target: /data/projects/depredict/sleeep/segs_freesurfer/008/20180702_215220.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/008/20180702_215220/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/008/20180702_215220.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/008/20180702_215220/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -6.98492e-09, -1.86265e-09)
+j_ras = (-1.86265e-09, -2.98023e-08, -1)
+k_ras = (3.25963e-09, 1, 7.45058e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/008/20180702_215220.nii.gz...
+copied SUCCESSFULLY 
+
+31 source: /data/projects/depredict/sleeep/freesurfer_working_directory/008/20180703_082201/mri/aseg.mgz
+31 target: /data/projects/depredict/sleeep/segs_freesurfer/008/20180703_082201.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/008/20180703_082201/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/008/20180703_082201.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/008/20180703_082201/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -4.77303e-09, 0)
+j_ras = (-9.31323e-10, 3.72529e-09, -1)
+k_ras = (4.77303e-09, 1, 3.72529e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/008/20180703_082201.nii.gz...
+copied SUCCESSFULLY 
+
+32 source: /data/projects/depredict/sleeep/freesurfer_working_directory/009/20180703_091614/mri/aseg.mgz
+32 target: /data/projects/depredict/sleeep/segs_freesurfer/009/20180703_091614.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/009/20180703_091614/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/009/20180703_091614.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/009/20180703_091614/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 2.15368e-09, 0)
+j_ras = (1.86265e-09, 3.72529e-09, -1)
+k_ras = (-2.09548e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/009/20180703_091614.nii.gz...
+copied SUCCESSFULLY 
+
+33 source: /data/projects/depredict/sleeep/freesurfer_working_directory/009/20180703_203335/mri/aseg.mgz
+33 target: /data/projects/depredict/sleeep/segs_freesurfer/009/20180703_203335.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/009/20180703_203335/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/009/20180703_203335.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/009/20180703_203335/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.10595e-08, 3.72529e-09)
+j_ras = (0, -3.72529e-09, -1)
+k_ras = (-7.33417e-09, 1, 3.72529e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/009/20180703_203335.nii.gz...
+copied SUCCESSFULLY 
+
+34 source: /data/projects/depredict/sleeep/freesurfer_working_directory/010/20180704_081709/mri/aseg.mgz
+34 target: /data/projects/depredict/sleeep/segs_freesurfer/010/20180704_081709.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/010/20180704_081709/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/010/20180704_081709.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/010/20180704_081709/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 8.61473e-09, -3.72529e-09)
+j_ras = (0, 0, -1)
+k_ras = (-4.88944e-09, 1, 7.45058e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/010/20180704_081709.nii.gz...
+copied SUCCESSFULLY 
+
+35 source: /data/projects/depredict/sleeep/freesurfer_working_directory/010/20180704_171046/mri/aseg.mgz
+35 target: /data/projects/depredict/sleeep/segs_freesurfer/010/20180704_171046.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/010/20180704_171046/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/010/20180704_171046.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/010/20180704_171046/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -6.98492e-10, 0)
+j_ras = (3.72529e-09, 0, -1)
+k_ras = (-6.75209e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/010/20180704_171046.nii.gz...
+copied SUCCESSFULLY 
+
+36 source: /data/projects/depredict/sleeep/freesurfer_working_directory/010/20180705_100643/mri/aseg.mgz
+36 target: /data/projects/depredict/sleeep/segs_freesurfer/010/20180705_100643.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/010/20180705_100643/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/010/20180705_100643.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/010/20180705_100643/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.95578e-08, 0)
+j_ras = (0, -1.11759e-08, -1)
+k_ras = (-4.19095e-09, 1, 3.72529e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/010/20180705_100643.nii.gz...
+copied SUCCESSFULLY 
+
+37 source: /data/projects/depredict/sleeep/freesurfer_working_directory/010/20180705_162419/mri/aseg.mgz
+37 target: /data/projects/depredict/sleeep/segs_freesurfer/010/20180705_162419.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/010/20180705_162419/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/010/20180705_162419.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/010/20180705_162419/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -1.6822e-08, -3.72529e-09)
+j_ras = (-1.11759e-08, -1.39698e-09, -1)
+k_ras = (1.92085e-09, 1, 4.65661e-10)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/010/20180705_162419.nii.gz...
+copied SUCCESSFULLY 
+
+38 source: /data/projects/depredict/sleeep/freesurfer_working_directory/011/20180704_092215/mri/aseg.mgz
+38 target: /data/projects/depredict/sleeep/segs_freesurfer/011/20180704_092215.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/011/20180704_092215/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/011/20180704_092215.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/011/20180704_092215/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 3.72529e-09, 7.45058e-09)
+j_ras = (1.86265e-08, 7.45058e-09, -1)
+k_ras = (-9.31323e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/011/20180704_092215.nii.gz...
+copied SUCCESSFULLY 
+
+39 source: /data/projects/depredict/sleeep/freesurfer_working_directory/011/20180704_200402/mri/aseg.mgz
+39 target: /data/projects/depredict/sleeep/segs_freesurfer/011/20180704_200402.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/011/20180704_200402/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/011/20180704_200402.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/011/20180704_200402/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 2.79397e-09, 0)
+j_ras = (1.86265e-09, 0, -1)
+k_ras = (-9.31323e-10, 1, 1.49012e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/011/20180704_200402.nii.gz...
+copied SUCCESSFULLY 
+
+40 source: /data/projects/depredict/sleeep/freesurfer_working_directory/011/20180705_081103/mri/aseg.mgz
+40 target: /data/projects/depredict/sleeep/segs_freesurfer/011/20180705_081103.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/011/20180705_081103/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/011/20180705_081103.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/011/20180705_081103/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.68802e-09, 2.32831e-10)
+j_ras = (2.32831e-10, 0, -1)
+k_ras = (-1.68802e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/011/20180705_081103.nii.gz...
+copied SUCCESSFULLY 
+
+41 source: /data/projects/depredict/sleeep/freesurfer_working_directory/011/20180705_150422/mri/aseg.mgz
+41 target: /data/projects/depredict/sleeep/segs_freesurfer/011/20180705_150422.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/011/20180705_150422/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/011/20180705_150422.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/011/20180705_150422/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -5.47152e-09, 0)
+j_ras = (0, 7.45058e-09, -1)
+k_ras = (1.74623e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/011/20180705_150422.nii.gz...
+copied SUCCESSFULLY 
+
+42 source: /data/projects/depredict/sleeep/freesurfer_working_directory/012/20180705_092652/mri/aseg.mgz
+42 target: /data/projects/depredict/sleeep/segs_freesurfer/012/20180705_092652.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/012/20180705_092652/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/012/20180705_092652.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/012/20180705_092652/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -4.65661e-10, 0)
+j_ras = (0, -1.49012e-08, -1)
+k_ras = (6.98492e-10, 1, -1.49012e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/012/20180705_092652.nii.gz...
+copied SUCCESSFULLY 
+
+43 source: /data/projects/depredict/sleeep/freesurfer_working_directory/012/20180705_193200/mri/aseg.mgz
+43 target: /data/projects/depredict/sleeep/segs_freesurfer/012/20180705_193200.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/012/20180705_193200/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/012/20180705_193200.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/012/20180705_193200/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -3.25963e-09, 7.45058e-09)
+j_ras = (1.49012e-08, -2.98023e-08, -1)
+k_ras = (1.53668e-08, 1, 1.49012e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/012/20180705_193200.nii.gz...
+copied SUCCESSFULLY 
+
+44 source: /data/projects/depredict/sleeep/freesurfer_working_directory/012/20180706_091110/mri/aseg.mgz
+44 target: /data/projects/depredict/sleeep/segs_freesurfer/012/20180706_091110.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/012/20180706_091110/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/012/20180706_091110.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/012/20180706_091110/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.86265e-09, 0)
+j_ras = (1.86265e-09, -1.49012e-08, -1)
+k_ras = (0, 1, 1.49012e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/012/20180706_091110.nii.gz...
+copied SUCCESSFULLY 
+
+45 source: /data/projects/depredict/sleeep/freesurfer_working_directory/012/20180706_150650/mri/aseg.mgz
+45 target: /data/projects/depredict/sleeep/segs_freesurfer/012/20180706_150650.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/012/20180706_150650/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/012/20180706_150650.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/012/20180706_150650/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -2.32831e-09, -1.86265e-09)
+j_ras = (-7.45058e-09, 0, -1)
+k_ras = (1.39698e-08, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/012/20180706_150650.nii.gz...
+copied SUCCESSFULLY 
+
+46 source: /data/projects/depredict/sleeep/freesurfer_working_directory/013/20180709_091425/mri/aseg.mgz
+46 target: /data/projects/depredict/sleeep/segs_freesurfer/013/20180709_091425.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/013/20180709_091425/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/013/20180709_091425.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/013/20180709_091425/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -4.22006e-10, 0)
+j_ras = (0, -9.31323e-10, -1)
+k_ras = (4.22006e-10, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/013/20180709_091425.nii.gz...
+copied SUCCESSFULLY 
+
+47 source: /data/projects/depredict/sleeep/freesurfer_working_directory/013/20180709_184712/mri/aseg.mgz
+47 target: /data/projects/depredict/sleeep/segs_freesurfer/013/20180709_184712.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/013/20180709_184712/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/013/20180709_184712.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/013/20180709_184712/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 7.27596e-10, 0)
+j_ras = (0, 1.86265e-09, -1)
+k_ras = (2.99769e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/013/20180709_184712.nii.gz...
+copied SUCCESSFULLY 
+
+48 source: /data/projects/depredict/sleeep/freesurfer_working_directory/013/20180710_101421/mri/aseg.mgz
+48 target: /data/projects/depredict/sleeep/segs_freesurfer/013/20180710_101421.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/013/20180710_101421/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/013/20180710_101421.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/013/20180710_101421/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -5.38421e-09, -3.72529e-09)
+j_ras = (-3.72529e-09, -9.31323e-10, -1)
+k_ras = (1.71713e-09, 1, 9.31323e-10)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/013/20180710_101421.nii.gz...
+copied SUCCESSFULLY 
+
+49 source: /data/projects/depredict/sleeep/freesurfer_working_directory/013/20180710_155158/mri/aseg.mgz
+49 target: /data/projects/depredict/sleeep/segs_freesurfer/013/20180710_155158.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/013/20180710_155158/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/013/20180710_155158.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/013/20180710_155158/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 8.91305e-11, -5.82077e-11)
+j_ras = (-5.82077e-11, -1.39698e-09, -1)
+k_ras = (-3.21961e-10, 1, 9.31323e-10)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/013/20180710_155158.nii.gz...
+copied SUCCESSFULLY 
+
+50 source: /data/projects/depredict/sleeep/freesurfer_working_directory/014/20180710_082850/mri/aseg.mgz
+50 target: /data/projects/depredict/sleeep/segs_freesurfer/014/20180710_082850.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/014/20180710_082850/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/014/20180710_082850.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/014/20180710_082850/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -6.0536e-09, 0)
+j_ras = (7.45058e-09, -1.49012e-08, -1)
+k_ras = (1.86265e-09, 1, -7.45058e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/014/20180710_082850.nii.gz...
+copied SUCCESSFULLY 
+
+51 source: /data/projects/depredict/sleeep/freesurfer_working_directory/014/20180710_172322/mri/aseg.mgz
+51 target: /data/projects/depredict/sleeep/segs_freesurfer/014/20180710_172322.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/014/20180710_172322/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/014/20180710_172322.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/014/20180710_172322/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 4.65661e-09, 0)
+j_ras = (0, 7.45058e-09, -1)
+k_ras = (-8.61473e-09, 1, -7.45058e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/014/20180710_172322.nii.gz...
+copied SUCCESSFULLY 
+
+52 source: /data/projects/depredict/sleeep/freesurfer_working_directory/014/20180711_090916/mri/aseg.mgz
+52 target: /data/projects/depredict/sleeep/segs_freesurfer/014/20180711_090916.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/014/20180711_090916/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/014/20180711_090916.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/014/20180711_090916/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -3.49246e-10, 3.72529e-09)
+j_ras = (1.86265e-08, -1.86265e-09, -1)
+k_ras = (2.32831e-10, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/014/20180711_090916.nii.gz...
+copied SUCCESSFULLY 
+
+53 source: /data/projects/depredict/sleeep/freesurfer_working_directory/014/20180711_161644/mri/aseg.mgz
+53 target: /data/projects/depredict/sleeep/segs_freesurfer/014/20180711_161644.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/014/20180711_161644/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/014/20180711_161644.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/014/20180711_161644/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 2.32831e-09, 7.45058e-09)
+j_ras = (2.23517e-08, -3.72529e-09, -1)
+k_ras = (-6.0536e-09, 1, -3.72529e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/014/20180711_161644.nii.gz...
+copied SUCCESSFULLY 
+
+54 source: /data/projects/depredict/sleeep/freesurfer_working_directory/015/20180710_092705/mri/aseg.mgz
+54 target: /data/projects/depredict/sleeep/segs_freesurfer/015/20180710_092705.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/015/20180710_092705/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/015/20180710_092705.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/015/20180710_092705/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 1.86265e-09)
+j_ras = (3.72529e-09, -1.49012e-08, -1)
+k_ras = (-9.31323e-10, 1, -1.49012e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/015/20180710_092705.nii.gz...
+copied SUCCESSFULLY 
+
+55 source: /data/projects/depredict/sleeep/freesurfer_working_directory/015/20180710_204659/mri/aseg.mgz
+55 target: /data/projects/depredict/sleeep/segs_freesurfer/015/20180710_204659.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/015/20180710_204659/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/015/20180710_204659.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/015/20180710_204659/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -1.30385e-08, 3.72529e-09)
+j_ras = (1.11759e-08, 1.49012e-08, -1)
+k_ras = (-1.86265e-09, 1, 1.49012e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/015/20180710_204659.nii.gz...
+copied SUCCESSFULLY 
+
+56 source: /data/projects/depredict/sleeep/freesurfer_working_directory/015/20180711_072133/mri/aseg.mgz
+56 target: /data/projects/depredict/sleeep/segs_freesurfer/015/20180711_072133.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/015/20180711_072133/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/015/20180711_072133.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/015/20180711_072133/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -5.58794e-09, 0)
+j_ras = (-7.45058e-09, 2.98023e-08, -1)
+k_ras = (2.04891e-08, 1, -2.98023e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/015/20180711_072133.nii.gz...
+copied SUCCESSFULLY 
+
+57 source: /data/projects/depredict/sleeep/freesurfer_working_directory/015/20180711_152453/mri/aseg.mgz
+57 target: /data/projects/depredict/sleeep/segs_freesurfer/015/20180711_152453.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/015/20180711_152453/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/015/20180711_152453.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/015/20180711_152453/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 2.32831e-09, 1.86265e-09)
+j_ras = (3.72529e-09, 7.45058e-08, -1)
+k_ras = (-1.39698e-09, 1, -2.98023e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/015/20180711_152453.nii.gz...
+copied SUCCESSFULLY 
+
+58 source: /data/projects/depredict/sleeep/freesurfer_working_directory/016/20180711_082323/mri/aseg.mgz
+58 target: /data/projects/depredict/sleeep/segs_freesurfer/016/20180711_082323.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/016/20180711_082323/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/016/20180711_082323.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/016/20180711_082323/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -7.85803e-09, -3.72529e-09)
+j_ras = (-7.45058e-09, 0, -1)
+k_ras = (4.24916e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/016/20180711_082323.nii.gz...
+copied SUCCESSFULLY 
+
+59 source: /data/projects/depredict/sleeep/freesurfer_working_directory/016/20180711_195719/mri/aseg.mgz
+59 target: /data/projects/depredict/sleeep/segs_freesurfer/016/20180711_195719.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/016/20180711_195719/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/016/20180711_195719.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/016/20180711_195719/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 2.45018e-09, -1.16415e-10)
+j_ras = (-1.74623e-10, 1.49012e-08, -1)
+k_ras = (-5.87534e-10, 1, -3.72529e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/016/20180711_195719.nii.gz...
+copied SUCCESSFULLY 
+
+60 source: /data/projects/depredict/sleeep/freesurfer_working_directory/016/20180712_075345/mri/aseg.mgz
+60 target: /data/projects/depredict/sleeep/segs_freesurfer/016/20180712_075345.nii.gz
+NOT copied: target file exists already
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/016/20180712_075345/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/016/20180712_075345.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/016/20180712_075345/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.01863e-09, 0)
+j_ras = (-1.11759e-08, -9.31323e-10, -1)
+k_ras = (6.49015e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/016/20180712_075345.nii.gz...
+copied SUCCESSFULLY 
+
+61 source: /data/projects/depredict/sleeep/freesurfer_working_directory/017/20180713_082428/mri/aseg.mgz
+61 target: /data/projects/depredict/sleeep/segs_freesurfer/017/20180713_082428.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/017/20180713_082428/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/017/20180713_082428.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/017/20180713_082428/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 2.61934e-09, 0)
+j_ras = (0, 0, -1)
+k_ras = (-2.67755e-09, 1, -7.45058e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/017/20180713_082428.nii.gz...
+copied SUCCESSFULLY 
+
+62 source: /data/projects/depredict/sleeep/freesurfer_working_directory/017/20180714_073444/mri/aseg.mgz
+62 target: /data/projects/depredict/sleeep/segs_freesurfer/017/20180714_073444.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/017/20180714_073444/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/017/20180714_073444.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/017/20180714_073444/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.16415e-09, 0)
+j_ras = (-7.45058e-09, 9.31323e-10, -1)
+k_ras = (-1.04774e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/017/20180714_073444.nii.gz...
+copied SUCCESSFULLY 
+
+63 source: /data/projects/depredict/sleeep/freesurfer_working_directory/017/20180714_155345/mri/aseg.mgz
+63 target: /data/projects/depredict/sleeep/segs_freesurfer/017/20180714_155345.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/017/20180714_155345/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/017/20180714_155345.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/017/20180714_155345/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.86265e-09, -3.72529e-09)
+j_ras = (0, 0, -1)
+k_ras = (1.83354e-09, 1, -9.31323e-10)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/017/20180714_155345.nii.gz...
+copied SUCCESSFULLY 
+
+64 source: /data/projects/depredict/sleeep/freesurfer_working_directory/017/fsaverage/mri/aseg.mgz
+64 target: /data/projects/depredict/sleeep/segs_freesurfer/017/fsaverage.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/017/fsaverage/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/017/fsaverage.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/017/fsaverage/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 0)
+j_ras = (0, 0, -1)
+k_ras = (0, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/017/fsaverage.nii.gz...
+copied SUCCESSFULLY 
+
+65 source: /data/projects/depredict/sleeep/freesurfer_working_directory/018/20180713_091322/mri/aseg.mgz
+65 target: /data/projects/depredict/sleeep/segs_freesurfer/018/20180713_091322.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/018/20180713_091322/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/018/20180713_091322.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/018/20180713_091322/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 9.31323e-10, 0)
+j_ras = (0, -7.45058e-09, -1)
+k_ras = (-9.31323e-10, 1, -7.45058e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/018/20180713_091322.nii.gz...
+copied SUCCESSFULLY 
+
+66 source: /data/projects/depredict/sleeep/freesurfer_working_directory/018/20180713_203617/mri/aseg.mgz
+66 target: /data/projects/depredict/sleeep/segs_freesurfer/018/20180713_203617.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/018/20180713_203617/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/018/20180713_203617.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/018/20180713_203617/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -4.65661e-10, 0)
+j_ras = (0, -7.45058e-09, -1)
+k_ras = (6.98492e-10, 1, 7.45058e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/018/20180713_203617.nii.gz...
+copied SUCCESSFULLY 
+
+67 source: /data/projects/depredict/sleeep/freesurfer_working_directory/018/20180714_091314/mri/aseg.mgz
+67 target: /data/projects/depredict/sleeep/segs_freesurfer/018/20180714_091314.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/018/20180714_091314/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/018/20180714_091314.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/018/20180714_091314/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 3.31784e-09, 3.72529e-09)
+j_ras = (-7.45058e-09, 0, -1)
+k_ras = (-1.07684e-08, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/018/20180714_091314.nii.gz...
+copied SUCCESSFULLY 
+
+68 source: /data/projects/depredict/sleeep/freesurfer_working_directory/018/20180714_163800/mri/aseg.mgz
+68 target: /data/projects/depredict/sleeep/segs_freesurfer/018/20180714_163800.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/018/20180714_163800/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/018/20180714_163800.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/018/20180714_163800/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -1.74623e-10, 0)
+j_ras = (0, 0, -1)
+k_ras = (3.84171e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/018/20180714_163800.nii.gz...
+copied SUCCESSFULLY 
+
+69 source: /data/projects/depredict/sleeep/freesurfer_working_directory/018/fsaverage/mri/aseg.mgz
+69 target: /data/projects/depredict/sleeep/segs_freesurfer/018/fsaverage.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/018/fsaverage/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/018/fsaverage.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/018/fsaverage/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 0)
+j_ras = (0, 0, -1)
+k_ras = (0, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/018/fsaverage.nii.gz...
+copied SUCCESSFULLY 
+
+70 source: /data/projects/depredict/sleeep/freesurfer_working_directory/019/20180714_083206/mri/aseg.mgz
+70 target: /data/projects/depredict/sleeep/segs_freesurfer/019/20180714_083206.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/019/20180714_083206/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/019/20180714_083206.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/019/20180714_083206/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 4.19095e-09, 0)
+j_ras = (3.72529e-09, 7.45058e-09, -1)
+k_ras = (1.39698e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/019/20180714_083206.nii.gz...
+copied SUCCESSFULLY 
+
+71 source: /data/projects/depredict/sleeep/freesurfer_working_directory/019/20180714_184207/mri/aseg.mgz
+71 target: /data/projects/depredict/sleeep/segs_freesurfer/019/20180714_184207.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/019/20180714_184207/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/019/20180714_184207.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/019/20180714_184207/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.39698e-09, 0)
+j_ras = (-3.72529e-09, 7.45058e-09, -1)
+k_ras = (-1.39698e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/019/20180714_184207.nii.gz...
+copied SUCCESSFULLY 
+
+72 source: /data/projects/depredict/sleeep/freesurfer_working_directory/019/20180715_082156/mri/aseg.mgz
+72 target: /data/projects/depredict/sleeep/segs_freesurfer/019/20180715_082156.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/019/20180715_082156/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/019/20180715_082156.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/019/20180715_082156/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 4.88944e-09, -1.86265e-09)
+j_ras = (1.86265e-09, 0, -1)
+k_ras = (2.56114e-09, 1, 1.86265e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/019/20180715_082156.nii.gz...
+copied SUCCESSFULLY 
+
+73 source: /data/projects/depredict/sleeep/freesurfer_working_directory/019/20180715_160052/mri/aseg.mgz
+73 target: /data/projects/depredict/sleeep/segs_freesurfer/019/20180715_160052.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/019/20180715_160052/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/019/20180715_160052.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/019/20180715_160052/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -9.72068e-09, 1.86265e-09)
+j_ras = (1.86265e-09, 0, -1)
+k_ras = (2.2701e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/019/20180715_160052.nii.gz...
+copied SUCCESSFULLY 
+
+74 source: /data/projects/depredict/sleeep/freesurfer_working_directory/019/fsaverage/mri/aseg.mgz
+74 target: /data/projects/depredict/sleeep/segs_freesurfer/019/fsaverage.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/019/fsaverage/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/019/fsaverage.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/019/fsaverage/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 0)
+j_ras = (0, 0, -1)
+k_ras = (0, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/019/fsaverage.nii.gz...
+copied SUCCESSFULLY 
+
+75 source: /data/projects/depredict/sleeep/freesurfer_working_directory/020/20180716_091612/mri/aseg.mgz
+75 target: /data/projects/depredict/sleeep/segs_freesurfer/020/20180716_091612.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/020/20180716_091612/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/020/20180716_091612.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/020/20180716_091612/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -1.86265e-09, -3.72529e-09)
+j_ras = (0, 2.98023e-08, -1)
+k_ras = (1.86265e-09, 1, 2.98023e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/020/20180716_091612.nii.gz...
+copied SUCCESSFULLY 
+
+76 source: /data/projects/depredict/sleeep/freesurfer_working_directory/020/20180716_202436/mri/aseg.mgz
+76 target: /data/projects/depredict/sleeep/segs_freesurfer/020/20180716_202436.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/020/20180716_202436/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/020/20180716_202436.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/020/20180716_202436/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 7.45058e-09)
+j_ras = (0, 2.98023e-08, -1)
+k_ras = (0, 1, 2.98023e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/020/20180716_202436.nii.gz...
+copied SUCCESSFULLY 
+
+77 source: /data/projects/depredict/sleeep/freesurfer_working_directory/020/20180717_072758/mri/aseg.mgz
+77 target: /data/projects/depredict/sleeep/segs_freesurfer/020/20180717_072758.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/020/20180717_072758/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/020/20180717_072758.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/020/20180717_072758/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -1.86265e-09, 3.72529e-09)
+j_ras = (3.72529e-09, -2.98023e-08, -1)
+k_ras = (0, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/020/20180717_072758.nii.gz...
+copied SUCCESSFULLY 
+
+78 source: /data/projects/depredict/sleeep/freesurfer_working_directory/020/20180717_152512/mri/aseg.mgz
+78 target: /data/projects/depredict/sleeep/segs_freesurfer/020/20180717_152512.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/020/20180717_152512/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/020/20180717_152512.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/020/20180717_152512/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.86265e-09, 0)
+j_ras = (-7.45058e-09, 0, -1)
+k_ras = (0, 1, 2.98023e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/020/20180717_152512.nii.gz...
+copied SUCCESSFULLY 
+
+79 source: /data/projects/depredict/sleeep/freesurfer_working_directory/020/fsaverage/mri/aseg.mgz
+79 target: /data/projects/depredict/sleeep/segs_freesurfer/020/fsaverage.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/020/fsaverage/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/020/fsaverage.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/020/fsaverage/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 0)
+j_ras = (0, 0, -1)
+k_ras = (0, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/020/fsaverage.nii.gz...
+copied SUCCESSFULLY 
+
+80 source: /data/projects/depredict/sleeep/freesurfer_working_directory/021/20180716_081234/mri/aseg.mgz
+80 target: /data/projects/depredict/sleeep/segs_freesurfer/021/20180716_081234.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/021/20180716_081234/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/021/20180716_081234.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/021/20180716_081234/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, -1.86265e-09, 0)
+j_ras = (3.72529e-09, -7.45058e-09, -1)
+k_ras = (1.39698e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/021/20180716_081234.nii.gz...
+copied SUCCESSFULLY 
+
+81 source: /data/projects/depredict/sleeep/freesurfer_working_directory/021/20180716_194140/mri/aseg.mgz
+81 target: /data/projects/depredict/sleeep/segs_freesurfer/021/20180716_194140.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/021/20180716_194140/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/021/20180716_194140.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/021/20180716_194140/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 4.65661e-10, 0)
+j_ras = (0, 7.45058e-09, -1)
+k_ras = (-4.65661e-10, 1, 7.45058e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/021/20180716_194140.nii.gz...
+copied SUCCESSFULLY 
+
+82 source: /data/projects/depredict/sleeep/freesurfer_working_directory/021/20180717_101623/mri/aseg.mgz
+82 target: /data/projects/depredict/sleeep/segs_freesurfer/021/20180717_101623.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/021/20180717_101623/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/021/20180717_101623.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/021/20180717_101623/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.86265e-09, -3.72529e-09)
+j_ras = (-3.72529e-09, 7.45058e-09, -1)
+k_ras = (-1.62981e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/021/20180717_101623.nii.gz...
+copied SUCCESSFULLY 
+
+83 source: /data/projects/depredict/sleeep/freesurfer_working_directory/021/20180717_161439/mri/aseg.mgz
+83 target: /data/projects/depredict/sleeep/segs_freesurfer/021/20180717_161439.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/021/20180717_161439/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/021/20180717_161439.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/021/20180717_161439/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 4.65661e-10, 0)
+j_ras = (1.86265e-09, 0, -1)
+k_ras = (-4.65661e-10, 1, -7.45058e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/021/20180717_161439.nii.gz...
+copied SUCCESSFULLY 
+
+84 source: /data/projects/depredict/sleeep/freesurfer_working_directory/021/fsaverage/mri/aseg.mgz
+84 target: /data/projects/depredict/sleeep/segs_freesurfer/021/fsaverage.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/021/fsaverage/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/021/fsaverage.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/021/fsaverage/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 0)
+j_ras = (0, 0, -1)
+k_ras = (0, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/021/fsaverage.nii.gz...
+copied SUCCESSFULLY 
+
+85 source: /data/projects/depredict/sleeep/freesurfer_working_directory/022/20180717_092957/mri/aseg.mgz
+85 target: /data/projects/depredict/sleeep/segs_freesurfer/022/20180717_092957.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/022/20180717_092957/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/022/20180717_092957.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/022/20180717_092957/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 2.79397e-09, 0)
+j_ras = (-1.86265e-09, 7.45058e-09, -1)
+k_ras = (-2.67755e-09, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/022/20180717_092957.nii.gz...
+copied SUCCESSFULLY 
+
+86 source: /data/projects/depredict/sleeep/freesurfer_working_directory/022/20180717_203342/mri/aseg.mgz
+86 target: /data/projects/depredict/sleeep/segs_freesurfer/022/20180717_203342.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/022/20180717_203342/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/022/20180717_203342.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/022/20180717_203342/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 0)
+j_ras = (3.72529e-09, 0, -1)
+k_ras = (9.31323e-10, 1, 1.49012e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/022/20180717_203342.nii.gz...
+copied SUCCESSFULLY 
+
+87 source: /data/projects/depredict/sleeep/freesurfer_working_directory/022/20180718_070818/mri/aseg.mgz
+87 target: /data/projects/depredict/sleeep/segs_freesurfer/022/20180718_070818.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/022/20180718_070818/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/022/20180718_070818.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/022/20180718_070818/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 1.39698e-09, 9.31323e-10)
+j_ras = (0, -1.49012e-08, -1)
+k_ras = (-1.5134e-09, 1, 1.49012e-08)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/022/20180718_070818.nii.gz...
+copied SUCCESSFULLY 
+
+88 source: /data/projects/depredict/sleeep/freesurfer_working_directory/022/20180718_152638/mri/aseg.mgz
+88 target: /data/projects/depredict/sleeep/segs_freesurfer/022/20180718_152638.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/022/20180718_152638/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/022/20180718_152638.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/022/20180718_152638/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 4.65661e-10, 0)
+j_ras = (3.72529e-09, -1.49012e-08, -1)
+k_ras = (4.65661e-10, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/022/20180718_152638.nii.gz...
+copied SUCCESSFULLY 
+
+89 source: /data/projects/depredict/sleeep/freesurfer_working_directory/022/fsaverage/mri/aseg.mgz
+89 target: /data/projects/depredict/sleeep/segs_freesurfer/022/fsaverage.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/022/fsaverage/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/022/fsaverage.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/022/fsaverage/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 0)
+j_ras = (0, 0, -1)
+k_ras = (0, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/022/fsaverage.nii.gz...
+copied SUCCESSFULLY 
+
+90 source: /data/projects/depredict/sleeep/freesurfer_working_directory/023/20180717_083720/mri/aseg.mgz
+90 target: /data/projects/depredict/sleeep/segs_freesurfer/023/20180717_083720.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/023/20180717_083720/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/023/20180717_083720.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/023/20180717_083720/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 3.31784e-09, 0)
+j_ras = (-3.72529e-09, 0, -1)
+k_ras = (2.91038e-10, 1, 1.86265e-09)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/023/20180717_083720.nii.gz...
+copied SUCCESSFULLY 
+
+91 source: /data/projects/depredict/sleeep/freesurfer_working_directory/023/fsaverage/mri/aseg.mgz
+91 target: /data/projects/depredict/sleeep/segs_freesurfer/023/fsaverage.nii.gz
+mri_convert /data/projects/depredict/sleeep/freesurfer_working_directory/023/fsaverage/mri/aseg.mgz /data/projects/depredict/sleeep/segs_freesurfer/023/fsaverage.nii.gz 
+reading from /data/projects/depredict/sleeep/freesurfer_working_directory/023/fsaverage/mri/aseg.mgz...
+TR=0.00, TE=0.00, TI=0.00, flip angle=0.00
+i_ras = (-1, 0, 0)
+j_ras = (0, 0, -1)
+k_ras = (0, 1, 0)
+writing to /data/projects/depredict/sleeep/segs_freesurfer/023/fsaverage.nii.gz...
+copied SUCCESSFULLY 
