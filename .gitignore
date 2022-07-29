@@ -1,22 +1,16 @@
-<<<<<<< HEAD
-# Directories in root
-/data/radiomics_features
-/data/segs_fastsurfer
-/data/segs_freesurfer
-/data/segs_samseg
-/data/segs_vuno
-/data/vols_DTI
-/data/vols_MEMPRAGE
-/documents
-=======
-# We exclude all actual data files
-trash/
-.zip
-.rar
-scripts/4dice_scoring/segmentation_sanity_check/
->>>>>>> parent of 2209ff9 (applied new gitignore rule)
+# Directories containing large data files
+/data/radiomics_features/
+/data/segs_*/
+/data/vols_*/
+/trash/
+
+# Documents
+/documents/
+
+# Omit other large directories
+/scripts/RENT/
+/scripts/4dice_scoring/segmentation_sanity_check/
 /freesurfer_working_directory
-/trash
 
 # Filetypes
 *.zip
@@ -25,12 +19,9 @@ scripts/4dice_scoring/segmentation_sanity_check/
 *.png
 *.pkl
 
-# The images from sanity check
-/scripts/RENT
-
 # IDE config files
-.DS_Store/
-__pycache__/
-.idea/
+.DS_Store
+__pycache__
+.idea
 
 
