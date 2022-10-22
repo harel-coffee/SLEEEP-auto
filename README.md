@@ -4,7 +4,9 @@
 
 *By Maarten Gijsbert Poirot, Matthan Caan, Henricus Gerardus Ruhe, Atle Bjørnerud, Inge Groote, Liesbeth Reneman and Henk Marquering.*
 
-Published: 06 October 2022 at https://www.nature.com/articles/s41598-022-20703-9
+Published: 06 October 2022 at https://www.nature.com/articles/s41598-022-20703-9 
+
+[RiS citation](./cite.ris)
 
 ## Abstract
 
@@ -24,7 +26,7 @@ This repository contains three things:
 
 1. In the `/data` directory you will find the data used to train our models to classify sleep deprived subjects from normal sleep-wake-cycle subjects. Howver, due to data limitations of GitHub repositories, the largest portion of data has been omitted and can be accessed upon request. These files have been replaced by `.gitkeep` files. These should provide those interested in this repository insight into the structuring and of data available.
 2. In the `/scripts` directory you will find all scripts used in (1) preprocessing T1 and DTI MRI scans, (2) software used for segmentation, (3, 4) standardizing the directory structure, (5) analyzing the resulting segmentations, (6) calculating radiomic features, concatenating radiomic features into dataframes, feature selection and finally (7) modeling. Since this is a largely chronological process every step has been numbered and put into their own directory
-4. Lastly, you will also find the `README *.pptx` to guide you through the use of code in combination with the data available. We will now quickly glance over each of these steps and the corresponding data.
+3. Lastly, you will also find the `README *.pptx` to guide you through the use of code in combination with the data available. We will now quickly glance over each of these steps and the corresponding data.
 
 Here is a nice picture from the documentation slide deck. Please get in touch if you have any questions.
 
